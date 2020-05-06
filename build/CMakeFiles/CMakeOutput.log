@@ -1,0 +1,97 @@
+The system is: Windows - 10.0.17134 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: F:/ProgramFiles/VisualStudio2019/VC/Tools/MSVC/14.25.28610/bin/Hostx64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) C/C++ Optimizing Compiler Version 19.25.28614 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.25.28614.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "F:/catkin_ws/build/CMakeFiles/3.17.2/CompilerIdC/CMakeCCompilerId.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: F:/ProgramFiles/VisualStudio2019/VC/Tools/MSVC/14.25.28610/bin/Hostx64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) C/C++ Optimizing Compiler Version 19.25.28614 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.25.28614.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+The CXX compiler identification is MSVC, found in "F:/catkin_ws/build/CMakeFiles/3.17.2/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: F:/catkin_ws/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_8715f\fast && 	F:\ProgramFiles\VisualStudio2019\VC\Tools\MSVC\14.25.28610\bin\HostX64\x64\nmake.exe  -f CMakeFiles\cmTC_8715f.dir\build.make /nologo -L                  CMakeFiles\cmTC_8715f.dir\build
+Building C object CMakeFiles/cmTC_8715f.dir/testCCompiler.c.obj
+	F:\ProgramFiles\VisualStudio2019\VC\Tools\MSVC\14.25.28610\bin\Hostx64\x64\cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\nmC3F.tmp
+testCCompiler.c
+Linking C executable cmTC_8715f.exe
+	C:\opt\python27amd64\Lib\site-packages\cmake\data\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_8715f.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\mt.exe --manifests  -- F:\ProgramFiles\VisualStudio2019\VC\Tools\MSVC\14.25.28610\bin\Hostx64\x64\link.exe /nologo @CMakeFiles\cmTC_8715f.dir\objects1.rsp @C:\Users\ADMINI~1\AppData\Local\Temp\nm1336.tmp
+
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: F:/catkin_ws/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_42c93\fast && 	F:\ProgramFiles\VisualStudio2019\VC\Tools\MSVC\14.25.28610\bin\HostX64\x64\nmake.exe  -f CMakeFiles\cmTC_42c93.dir\build.make /nologo -L                  CMakeFiles\cmTC_42c93.dir\build
+Building C object CMakeFiles/cmTC_42c93.dir/CMakeCCompilerABI.c.obj
+	F:\ProgramFiles\VisualStudio2019\VC\Tools\MSVC\14.25.28610\bin\Hostx64\x64\cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\nm1F6A.tmp
+CMakeCCompilerABI.c
+Linking C executable cmTC_42c93.exe
+	C:\opt\python27amd64\Lib\site-packages\cmake\data\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_42c93.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\mt.exe --manifests  -- F:\ProgramFiles\VisualStudio2019\VC\Tools\MSVC\14.25.28610\bin\Hostx64\x64\link.exe /nologo @CMakeFiles\cmTC_42c93.dir\objects1.rsp @C:\Users\ADMINI~1\AppData\Local\Temp\nm20D2.tmp
+
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: F:/catkin_ws/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_20298\fast && 	F:\ProgramFiles\VisualStudio2019\VC\Tools\MSVC\14.25.28610\bin\HostX64\x64\nmake.exe  -f CMakeFiles\cmTC_20298.dir\build.make /nologo -L                  CMakeFiles\cmTC_20298.dir\build
+Building CXX object CMakeFiles/cmTC_20298.dir/testCXXCompiler.cxx.obj
+	F:\ProgramFiles\VisualStudio2019\VC\Tools\MSVC\14.25.28610\bin\Hostx64\x64\cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\nm2814.tmp
+testCXXCompiler.cxx
+Linking CXX executable cmTC_20298.exe
+	C:\opt\python27amd64\Lib\site-packages\cmake\data\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_20298.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\mt.exe --manifests  -- F:\ProgramFiles\VisualStudio2019\VC\Tools\MSVC\14.25.28610\bin\Hostx64\x64\link.exe /nologo @CMakeFiles\cmTC_20298.dir\objects1.rsp @C:\Users\ADMINI~1\AppData\Local\Temp\nm296D.tmp
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: F:/catkin_ws/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_59b2a\fast && 	F:\ProgramFiles\VisualStudio2019\VC\Tools\MSVC\14.25.28610\bin\HostX64\x64\nmake.exe  -f CMakeFiles\cmTC_59b2a.dir\build.make /nologo -L                  CMakeFiles\cmTC_59b2a.dir\build
+Building CXX object CMakeFiles/cmTC_59b2a.dir/CMakeCXXCompilerABI.cpp.obj
+	F:\ProgramFiles\VisualStudio2019\VC\Tools\MSVC\14.25.28610\bin\Hostx64\x64\cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\nm3004.tmp
+CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_59b2a.exe
+	C:\opt\python27amd64\Lib\site-packages\cmake\data\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_59b2a.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\mt.exe --manifests  -- F:\ProgramFiles\VisualStudio2019\VC\Tools\MSVC\14.25.28610\bin\Hostx64\x64\link.exe /nologo @CMakeFiles\cmTC_59b2a.dir\objects1.rsp @C:\Users\ADMINI~1\AppData\Local\Temp\nm316C.tmp
+
+
+
