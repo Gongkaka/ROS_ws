@@ -3,5 +3,20 @@
   "directory": "F:/catkin_ws/build",
   "command": "F:\\ProgramFiles\\VisualStudio2019\\VC\\Tools\\MSVC\\14.25.28610\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DNOMINMAX -DNO_STRICT -DQ_NOWINSTRICT -DROS_BUILD_SHARED_LIBS=1 -DWIN32_LEAN_AND_MEAN -D_USE_MATH_DEFINES  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /Zi /O2 /Ob1 /DNDEBUG   /D _VARIADIC_MAX=10 /Zc:__cplusplus /FoCMakeFiles\\Project__setup_util.py_exec_install_python.dir\\catkin_generated\\add_python_executable\\Project__setup_util.py_exec_install_python\\_setup_util.cpp.obj /FdCMakeFiles\\Project__setup_util.py_exec_install_python.dir\\ /FS -c F:\\catkin_ws\\build\\catkin_generated\\add_python_executable\\Project__setup_util.py_exec_install_python\\_setup_util.cpp",
   "file": "F:/catkin_ws/build/catkin_generated/add_python_executable/Project__setup_util.py_exec_install_python/_setup_util.cpp"
+},
+{
+  "directory": "F:/catkin_ws/build/beginner_tutorials",
+  "command": "F:\\ProgramFiles\\VisualStudio2019\\VC\\Tools\\MSVC\\14.25.28610\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DNOMINMAX -DNO_STRICT -DQ_NOWINSTRICT -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"beginner_tutorials\\\" -DWIN32_LEAN_AND_MEAN -D_USE_MATH_DEFINES -IC:\\opt\\ros\\melodic\\x64\\include -IC:\\opt\\ros\\melodic\\x64\\share\\xmlrpcpp\\cmake\\..\\..\\..\\include\\xmlrpcpp -IC:\\opt\\rosdeps\\x64\\include\\boost-1_66 -IC:\\opt\\rosdeps\\x64\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /Zi /O2 /Ob1 /DNDEBUG   /D _VARIADIC_MAX=10 /Zc:__cplusplus /FoCMakeFiles\\listener.dir\\src\\listener.cpp.obj /FdCMakeFiles\\listener.dir\\ /FS -c F:\\catkin_ws\\src\\beginner_tutorials\\src\\listener.cpp",
+  "file": "F:/catkin_ws/src/beginner_tutorials/src/listener.cpp"
+},
+{
+  "directory": "F:/catkin_ws/build/beginner_tutorials",
+  "command": "F:\\ProgramFiles\\VisualStudio2019\\VC\\Tools\\MSVC\\14.25.28610\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DNOMINMAX -DNO_STRICT -DQ_NOWINSTRICT -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"beginner_tutorials\\\" -DWIN32_LEAN_AND_MEAN -D_USE_MATH_DEFINES -IC:\\opt\\ros\\melodic\\x64\\include -IC:\\opt\\ros\\melodic\\x64\\share\\xmlrpcpp\\cmake\\..\\..\\..\\include\\xmlrpcpp -IC:\\opt\\rosdeps\\x64\\include\\boost-1_66 -IC:\\opt\\rosdeps\\x64\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /Zi /O2 /Ob1 /DNDEBUG   /D _VARIADIC_MAX=10 /Zc:__cplusplus /FoCMakeFiles\\talker.dir\\src\\talker.cpp.obj /FdCMakeFiles\\talker.dir\\ /FS -c F:\\catkin_ws\\src\\beginner_tutorials\\src\\talker.cpp",
+  "file": "F:/catkin_ws/src/beginner_tutorials/src/talker.cpp"
+},
+{
+  "directory": "F:/catkin_ws/build/demo_py",
+  "command": "F:\\ProgramFiles\\VisualStudio2019\\VC\\Tools\\MSVC\\14.25.28610\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DNOMINMAX -DNO_STRICT -DQ_NOWINSTRICT -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"demo_py\\\" -DWIN32_LEAN_AND_MEAN -D_USE_MATH_DEFINES -IC:\\opt\\ros\\melodic\\x64\\include -IC:\\opt\\ros\\melodic\\x64\\share\\xmlrpcpp\\cmake\\..\\..\\..\\include\\xmlrpcpp -IC:\\opt\\rosdeps\\x64\\include\\boost-1_66 -IC:\\opt\\rosdeps\\x64\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /Zi /O2 /Ob1 /DNDEBUG   /D _VARIADIC_MAX=10 /Zc:__cplusplus /FoCMakeFiles\\demo_py_listener.py_exec_install_python.dir\\catkin_generated\\add_python_executable\\demo_py_listener.py_exec_install_python\\listener.cpp.obj /FdCMakeFiles\\demo_py_listener.py_exec_install_python.dir\\ /FS -c F:\\catkin_ws\\build\\demo_py\\catkin_generated\\add_python_executable\\demo_py_listener.py_exec_install_python\\listener.cpp",
+  "file": "F:/catkin_ws/build/demo_py/catkin_generated/add_python_executable/demo_py_listener.py_exec_install_python/listener.cpp"
 }
 ]

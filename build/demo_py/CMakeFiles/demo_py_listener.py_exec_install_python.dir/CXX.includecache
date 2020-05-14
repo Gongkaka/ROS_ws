@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/catkin_ws/build/demo_py/catkin_generated/add_python_executable/demo_py_listener.py_exec_install_python/listener.cpp
+iostream
+-
+windows.h
+-
+

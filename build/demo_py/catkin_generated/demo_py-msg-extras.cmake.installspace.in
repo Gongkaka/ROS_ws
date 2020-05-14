@@ -1,0 +1,2 @@
+set(demo_py_MESSAGE_FILES "")
+set(demo_py_SERVICE_FILES "")
